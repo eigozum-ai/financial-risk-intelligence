@@ -3,7 +3,7 @@
   "training_fraction": 0.8,
   "artifacts": {
     "frix_xgboost_base_v1": {
-      "path": "C:\\Users\\sachh\\frix-financial-risk-intelligence\\models\\frix_xgboost_base_v1.joblib",
+      "path": "C:\\Users\\eigozum\\frix-financial-risk-intelligence\\models\\frix_xgboost_base_v1.joblib",
       "feature_set": "base_only",
       "features": [
         "amount",
@@ -39,7 +39,7 @@
       "training_fraud": 472
     },
     "frix_xgboost_graph_v1": {
-      "path": "C:\\Users\\sachh\\frix-financial-risk-intelligence\\models\\frix_xgboost_graph_v1.joblib",
+      "path": "C:\\Users\\eigozum\\frix-financial-risk-intelligence\\models\\frix_xgboost_graph_v1.joblib",
       "feature_set": "base_plus_graph",
       "features": [
         "amount",
