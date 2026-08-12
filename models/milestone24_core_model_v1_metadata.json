@@ -1,6 +1,6 @@
 {
-  "dataset": "C:\\Users\\sachh\\frix-financial-risk-intelligence\\data\\frix_enriched_dataset_v3.csv",
-  "feature_file": "C:\\Users\\sachh\\frix-financial-risk-intelligence\\models\\milestone24_core_pretransaction_features.json",
+  "dataset": "C:\\Users\\eigozum\\frix-financial-risk-intelligence\\data\\frix_enriched_dataset_v3.csv",
+  "feature_file": "C:\\Users\\eigozum\\frix-financial-risk-intelligence\\models\\milestone24_core_pretransaction_features.json",
   "feature_count": 20,
   "features": [
     "amount",
